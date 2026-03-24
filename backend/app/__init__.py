@@ -1,0 +1,1 @@
+"""EnergIA backend package."""
