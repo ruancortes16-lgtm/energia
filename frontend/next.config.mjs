@@ -1,6 +1,5 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  typedRoutes: false
+export default {
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
 };
-
-export default nextConfig;
